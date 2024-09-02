@@ -1,5 +1,5 @@
-id=24827
-Branch Arch
+id=24832
+Straw Arch
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -31,8 +31,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=124454
-pos=44.000000,67.000000
+spriteID=124457
+pos=70.000000,90.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -47,4 +47,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=123
+pixHeight=129

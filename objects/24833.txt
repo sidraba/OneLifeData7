@@ -1,5 +1,5 @@
-id=24827
-Branch Arch
+id=24833
+Straw Arch #vertical
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -30,9 +30,9 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=1
-spriteID=124454
-pos=44.000000,67.000000
+numSprites=2
+spriteID=124458
+pos=29.000000,109.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -40,6 +40,16 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
+spriteID=124459
+pos=-3.000000,26.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spritesDrawnBehind=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
@@ -47,4 +57,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=123
+pixHeight=153
