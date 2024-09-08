@@ -1,5 +1,5 @@
 id=24829
-Branch Arch Base with Straw
+Branch Arch with Straw
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

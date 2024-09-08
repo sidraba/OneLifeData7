@@ -1,5 +1,5 @@
 id=24841
-Straw Arch with Dead Flowers #vertical CornFlower Chrysanthemum Windflower
+Straw Arch with Dead Flowers #vertical 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
